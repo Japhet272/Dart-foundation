@@ -89,6 +89,15 @@ for(int j=1;j<=maxMult;j++){
 
 }
 }
+void Footballer()
+{
+  String name='ronaldo';
+  int age=35;
+  double height=5.5;
+  print(name);
+}
+
+
 
   // var num = 2;
   // for (var i = 1; i <= 12; i++) {
